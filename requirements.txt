@@ -1,0 +1,7 @@
+pyaudio
+wave
+websockets
+google-generativeai
+python-dotenv
+protobuf<5.0
+
